@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Ngu?n 5V Pin=OLED-1
+Removed Pin From Net: NetName=Ngu?n 3.3V Pin=R1-1
+Added Pin To Net: NetName=Ngu?n 3.3V Pin=OLED-1
+Added Pin To Net: NetName=Ngu?n 5V Pin=R1-1
