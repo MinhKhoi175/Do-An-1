@@ -32,9 +32,8 @@ Here are some of the key languages, tools, and technologies I work with:
 
 I'm always open to connecting with fellow students, professionals, and enthusiasts. Feel free to reach out!
 
-* **LinkedIn:** [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* **GitHub:** [https://github.com/your-username](https://github.com/your-username)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **GitHub:** https://github.com/MinhKhoi175
+* **Email:** [trancaominhkhoi282@gmail.com](mailto:your.email@example.com)
 
 ---
 
