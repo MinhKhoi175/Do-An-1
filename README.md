@@ -37,9 +37,3 @@ I'm always open to connecting with fellow students, professionals, and enthusias
 
 ---
 
-### 📊 My GitHub Stats
-
-*(Đây là một phần thêm vào rất phổ biến và ấn tượng trên GitHub. Chỉ cần thay `your-username` bằng tên tài khoản GitHub của Khôi)*
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical)
